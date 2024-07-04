@@ -3,4 +3,5 @@
 #EXT-X-TARGETDURATION:0
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:1,
+http://xcui.vitvabc.xyz:8880/live/bandy/123456aa/38886.ts
 http://gtvstreams.me:80/play/live.php?mac=00:1a:79:af:7d:70&stream=219091&extension=ts
