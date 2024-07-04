@@ -5,4 +5,5 @@
 #EXT-X-PART-INF:PART-TARGET=1
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTINF:1,
+http://xcui.vitvabc.xyz:8880/live/bandy/123456aa/38876.ts
 http://1.gujaratsat.live/play/live.php?mac=00:1A:79:17:C1:0E&stream=772354&extension=ts
