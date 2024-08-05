@@ -5,6 +5,6 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXT-X-STREAM-INF:BANDWIDTH=4300000,AVERAGE-BANDWIDTH=3191434,RESOLUTION=1920x1020,FRAME-RATE=40.000,CODECS="avc1.77.30,mp4a.40.5",AUDIO="audio_0"
-http://mag.abcdxyz.one/play/live.php?mac=00:1A:79:17:1E:06&stream=151932&extension=m3u8
+http://venomousent.xyz:80/play/live.php?mac=00:1A:79:75:5C:E3&stream=684535&extension=m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=3300000,AVERAGE-BANDWIDTH=3191434,RESOLUTION=1020x720,FRAME-RATE=40.000,CODECS="avc1.77.30,mp4a.40.5",AUDIO="audio_0"
-http://mol-2.com:8080/play/live.php?mac=00:1a:79:bf:6c:e7&stream=61380&extension=m3u8
+http://mag.abcdxyz.one/play/live.php?mac=00:1A:79:17:1E:06&stream=151932&extension=m3u8
